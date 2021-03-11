@@ -37,7 +37,7 @@ Permite controlar algumas automações baseadas em eventos no chat da Twitch
 1. Preencha também o nome do seu canal da Twitch, exatamente como exibido, dentro do arquivo secrets.json
 
 ### Configuração do ambiente
-1. Instale o (Python 3[https://www.python.org/downloads/]) para sua plataforma
+1. Instale o [Python 3](https://www.python.org/downloads/) para sua plataforma
 1. Durante a instalação, certifique-se de adicionar o Python ao PATH do seu sistema operacional
 1. Instale as dependencias do arquivo requirements.txt usando o pip
 
